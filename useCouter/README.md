@@ -4,8 +4,8 @@ Ejemplo de uso
 
 ```
 
-const { cuonter, increment, decrement, reset } = useConuter(10);
+const { counter, increment, decrement, reset } = useCounter(10);
 
 ```
 
-userConuter()  //Recibe un valor por defecto
+userCounter()  //Recibe un valor por defecto
